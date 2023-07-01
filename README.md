@@ -1,1 +1,3 @@
-# GPT-cost-calculator_1
+# GPT-API cost-calculator snipet
+in PHP or, Python or Javascript
+free to use
