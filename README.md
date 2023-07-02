@@ -6,9 +6,12 @@ Node.js and npm (for the JavaScript version)
 Python 3.x (for the Python version)
 ## Usage
 ### JavaScript
-Navigate to the in-javascript directory.
-Install the dependencies with npm install.
-Run the script with node ccj.js.
+- Navigate to the in-javascript directory.
+- Install the dependencies with `npm install`.
+Run the script with
+```javascript
+node ccj.js
+```
 ### Python
 - Navigate to the in-python directory.
 - No extra dependencies are needed. Just ensure you're running Python 3.x.
