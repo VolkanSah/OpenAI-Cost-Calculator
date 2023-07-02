@@ -1,5 +1,6 @@
 import os
 import sys
+import json
 
 def get_price(model_name):
   """Gets the price of a single GPT-3 API call for a given model."""
