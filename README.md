@@ -23,3 +23,19 @@ One crucial part of understanding the pricing is knowing how OpenAI counts token
 
 ## Please Note
 This tool is meant to give a rough estimate of how much your usage of the GPT-3 API might cost. However, it's always a good idea to monitor your actual usage through the OpenAI API dashboard to prevent unexpected costs. This tool does not guarantee the exact pricing, as prices may vary, and the token count may differ based on the specifics of your API calls.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request.
+
+## Thank you for your support!
+If you appreciate my work, please consider supporting me:
+
+- Become a Sponsor: [Link to my sponsorship page](https://github.com/sponsors/volkansah)
+- :star: my projects: Starring projects on GitHub helps increase their visibility and can help others find my work. 
+- Follow me: Stay updated with my latest projects and releases.
+
+## License
+This project is licensed under the "Help the World Grow [💔](https://jugendamt-deutschland.de) " License . See the [LICENSE](LICENSE)  
+
+## Copyright
+[Volkan Kücükbudak](https://gihub.com/volkansah)
