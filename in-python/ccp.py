@@ -7,6 +7,10 @@ def get_price(model_name):
   price_file = os.path.join(os.path.dirname(__file__), "prices.json")
   with open(price_file, "r") as f:
     prices = json.load(f)
+  
+  if model_name not in prices:
+    raise ValueError(f"Model '{model_name}' not found in price list.")
+  
   return prices[model_name]
 
 def calculate_cost(number_of_calls, model_name):
@@ -16,9 +20,19 @@ def calculate_cost(number_of_calls, model_name):
 
 def main():
   """The main function."""
+  if len(sys.argv) != 3:
+    print("Usage: python3 cost_calculator.py <model_name> <number_of_calls>")
+    sys.exit(1)
+
   model_name = sys.argv[1]
   number_of_calls = int(sys.argv[2])
-  cost = calculate_cost(number_of_calls, model_name)
+
+  try:
+    cost = calculate_cost(number_of_calls, model_name)
+  except ValueError as e:
+    print(e)
+    sys.exit(1)
+
   print(f"The cost of {number_of_calls} API calls for the {model_name} model is \\${cost}.")
 
 if __name__ == "__main__":
