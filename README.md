@@ -9,14 +9,14 @@ Python 3.x (for the Python version)
 - Navigate to the in-javascript directory.
 - Install the dependencies with `npm install`.
 Run the script with
-```javascript
+```shell
 node ccj.js
 ```
 ### Python
 - Navigate to the in-python directory.
 - No extra dependencies are needed. Just ensure you're running Python 3.x.
 Run the script with
-```python
+```shell
 python3 ccp.py
 ```
 ## Price Configuration and Tokens
