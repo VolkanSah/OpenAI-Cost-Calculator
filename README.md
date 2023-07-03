@@ -40,11 +40,12 @@ Contributions are welcome! Please feel free to submit a pull request.
 ## Thank you for your support!
 If you appreciate my work, please consider supporting me:
 
-Become a Sponsor: [Link to my sponsorship page](https://github.com/sponsors/volkansah)
-:star: my projects: Starring projects on GitHub helps increase their visibility and can help others find my work.
-Follow me: Stay updated with my latest projects and releases.
-License
+- Become a Sponsor: [Link to my sponsorship page](https://github.com/sponsors/volkansah)
+- :star: my projects: Starring projects on GitHub helps increase their visibility and can help others find my work.
+- Follow me: Stay updated with my latest projects and releases.
+- 
+## License
 This project is licensed under the "Help the World Grow [💔](https://jugendamt-deutschland.de) " License . See the [LICENSE](LICENSE) for more infos!
 
 ## Copyright
-Volkan Kücükbudak
+[Volkan 'sah' Kücükbudak](https://github.com/volkansah)
