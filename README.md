@@ -1,4 +1,5 @@
 # OpenAI Cost Calculator
+![Ai cost calculator](ai-calculator.png)
 
 OpenAI Cost Calculator is a simple tool that allows you to estimate the cost of using OpenAI's GPT-3 API. It includes implementations in both JavaScript and Python. 
 
