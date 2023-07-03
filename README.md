@@ -21,7 +21,7 @@ The main scripts are `ccp.py` (Python version) and `ccj.js` (JavaScript version)
 node ccj.js chatgpt-4k 1000
 ```
 ### Python
-1. Navigate to the in-python directory.
+1. Navigate to the `in-python` directory.
 2. No extra dependencies are needed. Just ensure you're running Python 3.x.
 3. Run the script with the desired model name and the number of calls. For example:
 ```shell
